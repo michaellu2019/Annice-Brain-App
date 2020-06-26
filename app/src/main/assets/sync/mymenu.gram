@@ -1,0 +1,38 @@
+#JSGF V1.0;
+grammar mymenu;
+public <smart> = (hello |
+                  hi |
+                  goodbye |
+                  bye |
+                  whats your name |
+                  what is your name |
+                  how are you doing |
+                  how you doing |
+                  whats up |
+                  how are you |
+                  whats the meaning of life |
+                  what is the meaning of life |
+                  say hello |
+                  run intro |
+                  ice cream |
+                  smile time |
+                  party time |
+                  lets have a conversation |
+                  ay pee ay pee ay pee |
+                  dab on the haters |
+                  drop it |
+                  follow me |
+                  its time |
+                  part two |
+                  part three |
+                  part four |
+                  exit command |
+                  that is enough |
+                  hold on |
+                  stay still |
+                  turn around |
+                  banana |
+                  are you ready |
+                  thank you |
+                  cardboard |
+                  we are done);

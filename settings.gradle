@@ -1,0 +1,2 @@
+include ':OpenCV', ':Volley'
+include ':app', ':pocketsphinx-android-5prealpha-release'
